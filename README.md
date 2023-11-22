@@ -4,7 +4,7 @@
 
 - STL files should be named with a unique descriptive name
 - if there is a recommended/required color for that part, prefix the filename with the color in square brackets ([black], [a], etc.)
-- ususally there is a prime and accent color, without prefix it's meant to be the prime color and you can use the shortcode [a] for the accent color
+- ususally there is a prime and accent color, without prefix it's meant to be the primary color and you can use the shortcode [a] for the accent color
 - if a part needs to be printed multiple times suffix the filename with a "x" and then the amount of parts needed.
 
 ### Examples: 
